@@ -5,4 +5,4 @@ Aplicación de comanda remota desarrollada en Android con conexión Bluetooth. E
 
 Actualmente está configurada para operar con datos de prueba. Si se quiere utilizar en la modalidad original basta setear la variable **testMode = false**. Un desarrollo bastante rudimentario y no muy flexible, de los primeros que hice en Android hace ya casi cuatro años. Lo subo solo para preservar su contenido y como posible referencia futura, pero este proyecto no recibirá mantención. 
 
-![alt text](https://github.com/postcodex-x/comanda-remota/blob/main/captura.png)
+![alt text](https://github.com/postcode-x/comanda-remota/blob/main/captura.png)
